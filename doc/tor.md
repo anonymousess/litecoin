@@ -1,4 +1,4 @@
-# TOR SUPPORT IN LITECOIN
+# TOR SUPPORT IN VUICOIN
 
 It is possible to run Vuicoin Core as a Tor hidden service, and connect to such services.
 
