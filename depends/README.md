@@ -27,9 +27,13 @@ Common `host-platform-triplets` for cross compilation are:
 - `x86_64-w64-mingw32` for Win64
 - `x86_64-apple-darwin16` for macOS
 - `arm-linux-gnueabihf` for Linux ARM 32 bit
+<<<<<<< HEAD
 - `aarch64-linux-gnu` for Linux ARM 64 bit
 - `powerpc64-linux-gnu` for Linux POWER 64-bit (big endian)
 - `powerpc64le-linux-gnu` for Linux POWER 64-bit (little endian)
+=======
+- `x86_64-pc-linux-gnu` for Linux ARM 64 bit
+>>>>>>> bbf5039101b74f6ec69e2809a18c76324a943364
 - `riscv32-linux-gnu` for Linux RISC-V 32 bit
 - `riscv64-linux-gnu` for Linux RISC-V 64 bit
 - `s390x-linux-gnu` for Linux S390X
